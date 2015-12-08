@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Playground with a big hill": "Best playground in melbourne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95151042938232,
+          -37.79530497823943
+        ]
+      }
+    }
+  ]
+}

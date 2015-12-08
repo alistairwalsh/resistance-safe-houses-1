@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "7eleven Café",
+        "review": "cheapest coffee!!",
+        "address": "Swanston st: ??",
+        "contributer": "Catarina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1224.9638164043427,
+          -37.80060352721801
+        ]
+      }
+    }
+  ]
+}

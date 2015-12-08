@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "University squere": "Pelham st"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96017932891846,
+          -37.80130714593545
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "1000 Pound Bend": "Nice place but not sure I located it right.",
+        "Brook": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96284008026123,
+          -37.81097062835519
+        ]
+      }
+    }
+  ]
+}
